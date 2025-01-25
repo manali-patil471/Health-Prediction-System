@@ -17,8 +17,9 @@ It is a web-based application which giaves tailored homeopathic as well as allop
 - **Backend:** PHP, MySQL
 - **Database:** MySQL
 - **Hosting:** Localhost or Web Hosting Services
-## installation
-Extract the ZIP file
+## Installation
+I've provided the main index file, index file of doctor, patient
+Database is also provided - health_predix.zip
 Install XAMPP (if not installed)
 
 Download and install XAMPP from Apache Friends.
